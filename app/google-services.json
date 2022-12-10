@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "760020400778",
+    "project_id": "menstrualapp-67556",
+    "storage_bucket": "menstrualapp-67556.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760020400778:android:f9d75e31e1bc82e74fcb73",
+        "android_client_info": {
+          "package_name": "com.litetech.menstrualperiod"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "760020400778-65rticsr8hj58apste52skhrivjbquga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBBSxTLXB2tAFWYkO05Ukpu7d2AmYkr-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "760020400778-65rticsr8hj58apste52skhrivjbquga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,29 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <item
         android:id="@+id/home"
         android:title="Accueil"
+        app:showAsAction="ifRoom"
         android:icon="@drawable/ic_baseline_home_24"
         />
     <item
         android:id="@+id/calendar"
         android:title="Calendrier"
+        app:showAsAction="ifRoom"
         android:icon="@drawable/ic_baseline_calendar_month_24"
         />
     <item
-        android:id="@+id/stat"
-        android:title="Statisque"
-        android:icon="@drawable/ic_baseline_query_stats_24"
+        android:id="@+id/holder"
+        android:title=""
+        app:showAsAction="ifRoom"
         />
+
     <item
         android:id="@+id/journal"
         android:title="Journal"
+        app:showAsAction="ifRoom"
         android:icon="@drawable/ic_baseline_library_books_24"
         />
     <item
         android:id="@+id/setting"
         android:title="Paramètre"
+        app:showAsAction="ifRoom"
         android:icon="@drawable/ic_baseline_settings_24"
         />
 
